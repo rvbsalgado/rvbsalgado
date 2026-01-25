@@ -100,36 +100,21 @@ currently_building:
 
 ## Certifications
 
-<details>
-<summary><b>Kubernetes & Cloud Native</b></summary>
-<br>
-<img src="https://img.shields.io/badge/CKA-Kubernetes_Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/CKAD-Kubernetes_App_Developer-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/KCSA-Security_Associate-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/KCNA-Cloud_Native_Associate-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/KCA-Kyverno_Certified-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/PCA-Prometheus_Certified-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-<img src="https://img.shields.io/badge/CGOA-GitOps_Associate-326CE5?style=for-the-badge&logo=argo&logoColor=white" />
-<img src="https://img.shields.io/badge/CAPA-Argo_Project_Associate-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
-<img src="https://img.shields.io/badge/CNPA-Platform_Engineering-326CE5?style=for-the-badge&logo=cncf&logoColor=white" />
-</details>
+<div align="center">
 
-<details>
-<summary><b>Infrastructure & Networking</b></summary>
-<br>
-<img src="https://img.shields.io/badge/VCP5--DCV-VMware_Professional-607078?style=for-the-badge&logo=vmware&logoColor=white" />
-<img src="https://img.shields.io/badge/VTSP-VMware_Technical_Sales-607078?style=for-the-badge&logo=vmware&logoColor=white" />
-<img src="https://img.shields.io/badge/CCNA-Cisco_Certified-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-</details>
+<!--START_SECTION:badges-->
+<a href="https://www.credly.com/users/rvbsalgado"><img src="https://images.credly.com/size/100x100/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA: Certified Kubernetes Administrator" title="CKA: Certified Kubernetes Administrator" /></a>
+<a href="https://www.credly.com/users/rvbsalgado"><img src="https://images.credly.com/size/100x100/images/f88d800c-5f18-4e86-94fa-dade6a9453cc/image.png" alt="CKAD: Certified Kubernetes Application Developer" title="CKAD: Certified Kubernetes Application Developer" /></a>
+<a href="https://www.credly.com/users/rvbsalgado"><img src="https://images.credly.com/size/100x100/images/9945dfcb-1cca-4f89-8956-3f4d7dcb43e9/image.png" alt="KCSA: Kubernetes and Cloud Native Security Associate" title="KCSA: Kubernetes and Cloud Native Security Associate" /></a>
+<a href="https://www.credly.com/users/rvbsalgado"><img src="https://images.credly.com/size/100x100/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" alt="KCNA: Kubernetes and Cloud Native Associate" title="KCNA: Kubernetes and Cloud Native Associate" /></a>
+<a href="https://www.credly.com/users/rvbsalgado"><img src="https://images.credly.com/size/100x100/images/0a6d331e-44e4-4e05-95bb-a4c0a5be8b6c/image.png" alt="KCA: Kyverno Certified Associate" title="KCA: Kyverno Certified Associate" /></a>
+<a href="https://www.credly.com/users/rvbsalgado"><img src="https://images.credly.com/size/100x100/images/6f4212c6-80e6-4819-833d-a652b0feaabb/blob" alt="PCA: Prometheus Certified Associate" title="PCA: Prometheus Certified Associate" /></a>
+<a href="https://www.credly.com/users/rvbsalgado"><img src="https://images.credly.com/size/100x100/images/7f082c2b-77e6-4149-8f02-5c192c5a1e88/image.png" alt="CGOA: Certified GitOps Associate" title="CGOA: Certified GitOps Associate" /></a>
+<a href="https://www.credly.com/users/rvbsalgado"><img src="https://images.credly.com/size/100x100/images/11352952-f279-4c36-8a74-dc4b61755135/image.png" alt="CAPA: Certified Argo Project Associate" title="CAPA: Certified Argo Project Associate" /></a>
+<a href="https://www.credly.com/users/rvbsalgado"><img src="https://images.credly.com/size/100x100/images/d6d1e290-6b7f-4d9f-8f3d-3f3f3f3f3f3f/image.png" alt="CNPA: Cloud Native Platform Engineer Associate" title="CNPA: Cloud Native Platform Engineer Associate" /></a>
+<!--END_SECTION:badges-->
 
-<details>
-<summary><b>Microsoft</b></summary>
-<br>
-<img src="https://img.shields.io/badge/MCSE-Cloud_Platform-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/MCSA-Windows_Server-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/MCTS-SQL_Server-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/MCTS-Exchange_Server-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" />
-</details>
+</div>
 
 ---
 
