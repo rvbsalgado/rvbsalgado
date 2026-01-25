@@ -40,52 +40,22 @@ currently_building:
 <div align="center">
 
 #### Platforms & Orchestration
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kubernetes,docker,openstack&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=kubernetes,docker,openstack&theme=light" />
-  <img src="https://skillicons.dev/icons?i=kubernetes,docker,openstack" alt="Platforms" />
-</picture>
+<img src="https://skillicons.dev/icons?i=kubernetes,docker,openstack" alt="Platforms" />
 
 #### GitOps & IaC
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=terraform,ansible,git,github,githubactions&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=terraform,ansible,git,github,githubactions&theme=light" />
-  <img src="https://skillicons.dev/icons?i=terraform,ansible,git,github,githubactions" alt="GitOps" />
-</picture>
+<img src="https://skillicons.dev/icons?i=terraform,ansible,git,github,githubactions" alt="GitOps" />
 
 #### Languages
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go,python,bash&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=go,python,bash&theme=light" />
-  <img src="https://skillicons.dev/icons?i=go,python,bash" alt="Languages" />
-</picture>
+<img src="https://skillicons.dev/icons?i=go,python,bash" alt="Languages" />
 
 #### Cloud Providers
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,azure,gcp&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws,azure,gcp&theme=light" />
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp" alt="Cloud" />
-</picture>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp" alt="Cloud" />
 
 #### Observability
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=prometheus,grafana&theme=light" />
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana" alt="Observability" />
-</picture>
+<img src="https://skillicons.dev/icons?i=prometheus,grafana" alt="Observability" />
 
 #### Operating Systems
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux,windows&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linux,windows&theme=light" />
-  <img src="https://skillicons.dev/icons?i=linux,windows" alt="OS" />
-</picture>
+<img src="https://skillicons.dev/icons?i=linux,windows" alt="OS" />
 
 </div>
 
