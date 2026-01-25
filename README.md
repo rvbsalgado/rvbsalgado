@@ -1,9 +1,9 @@
 <!-- Header -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=900&lines=Lead+Cloud+Engineer+%40+Five9;Kubernetes+%7C+GitOps+%7C+Platform+Engineering;Building+Cloud+Native+Infrastructure" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=326CE5&center=true&vCenter=true&random=false&width=900&lines=Lead+Cloud+Engineer+%40+Five9;Kubernetes+%7C+GitOps+%7C+Platform+Engineering;Building+Cloud+Native+Infrastructure" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=326CE5&center=true&vCenter=true&random=false&width=900&lines=Lead+Cloud+Engineer+%40+Five9;Kubernetes+%7C+GitOps+%7C+Platform+Engineering;Building+Cloud+Native+Infrastructure" alt="Typing SVG" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=88C0D0&center=true&vCenter=true&random=false&width=900&lines=Lead+Cloud+Engineer+%40+Five9;Kubernetes+%7C+GitOps+%7C+Platform+Engineering;Building+Cloud+Native+Infrastructure" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=5E81AC&center=true&vCenter=true&random=false&width=900&lines=Lead+Cloud+Engineer+%40+Five9;Kubernetes+%7C+GitOps+%7C+Platform+Engineering;Building+Cloud+Native+Infrastructure" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=5E81AC&center=true&vCenter=true&random=false&width=900&lines=Lead+Cloud+Engineer+%40+Five9;Kubernetes+%7C+GitOps+%7C+Platform+Engineering;Building+Cloud+Native+Infrastructure" alt="Typing SVG" />
   </picture>
 </div>
 
@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/rvbsalgado/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=rvbsalgado&style=for-the-badge&color=326CE5" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=rvbsalgado&style=for-the-badge&color=5e81ac" alt="Profile Views" />
 </div>
 
 ---
@@ -144,10 +144,18 @@ currently_building:
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rvbsalgado&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rvbsalgado&theme=default&hide_border=true" alt="GitHub Streak" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rvbsalgado&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rvbsalgado&theme=nord&hide_border=true" alt="GitHub Streak" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvbsalgado&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvbsalgado&layout=compact&theme=nord&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rvbsalgado&theme=nord&no-frame=true&column=4&margin-w=15" alt="Trophies" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rvbsalgado&theme=nord&hide_border=true&area=true" alt="Activity Graph" />
 </div>
