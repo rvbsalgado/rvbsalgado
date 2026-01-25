@@ -130,15 +130,11 @@ currently_building:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rvbsalgado&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rvbsalgado&theme=nord&hide_border=true" alt="GitHub Streak" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=rvbsalgado&theme=nord&hide_border=true" alt="GitHub Streak" height="170" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvbsalgado&layout=compact&theme=nord&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rvbsalgado&theme=nord&no-frame=true&column=4&margin-w=15" alt="Trophies" />
 </div>
 
 <div align="center">
