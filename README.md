@@ -103,6 +103,7 @@ currently_building:
 <div align="center">
 
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/9244c963-3427-4231-b16d-65577cf86a14" title="CKS: Certified Kubernetes Security Specialist"><img src="https://images.credly.com/size/80x80/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png" alt="CKS: Certified Kubernetes Security Specialist" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/4fe32027-885d-4eb4-90a3-8626dc54b5c7" title="KCA: Kyverno Certified Associate"><img src="https://images.credly.com/size/80x80/images/2592935a-d8fa-405d-b40a-711a75454fc2/image.png" alt="KCA: Kyverno Certified Associate" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/30961c5d-6b66-4442-80b6-310862c4ce14" title="CKA: Certified Kubernetes Administrator"><img src="https://images.credly.com/size/80x80/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA: Certified Kubernetes Administrator" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/0ab9924d-9b53-411e-a1bf-360c00a85b4f" title="PCA: Prometheus Certified Associate"><img src="https://images.credly.com/size/80x80/images/c34436dc-1cfd-4125-a862-35f9c86ca17f/image.png" alt="PCA: Prometheus Certified Associate" width="80" height="80"></a>
