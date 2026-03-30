@@ -103,6 +103,8 @@ currently_building:
 <div align="center">
 
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/4241063c-4a53-4080-b122-5d99652d1886" title="CCA: Cilium Certified Associate"><img src="https://images.credly.com/size/80x80/images/729367b3-0344-4b00-a6da-53e1807f808a/image.png" alt="CCA: Cilium Certified Associate" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/690995c4-bdeb-4b3a-890b-45d52a16a94d" title="Kubestronaut"><img src="https://images.credly.com/size/80x80/images/cd6c6449-6814-4613-a2d3-13cf4ac5be4f/image.png" alt="Kubestronaut" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/9244c963-3427-4231-b16d-65577cf86a14" title="CKS: Certified Kubernetes Security Specialist"><img src="https://images.credly.com/size/80x80/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png" alt="CKS: Certified Kubernetes Security Specialist" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/4fe32027-885d-4eb4-90a3-8626dc54b5c7" title="KCA: Kyverno Certified Associate"><img src="https://images.credly.com/size/80x80/images/2592935a-d8fa-405d-b40a-711a75454fc2/image.png" alt="KCA: Kyverno Certified Associate" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/30961c5d-6b66-4442-80b6-310862c4ce14" title="CKA: Certified Kubernetes Administrator"><img src="https://images.credly.com/size/80x80/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA: Certified Kubernetes Administrator" width="80" height="80"></a>
