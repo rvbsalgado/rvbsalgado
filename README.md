@@ -1,9 +1,9 @@
 <!-- Header -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=88C0D0&center=true&vCenter=true&random=false&width=900&lines=Lead+Cloud+Engineer+%40+Five9;Kubernetes+%7C+GitOps+%7C+Platform+Engineering;Building+Cloud+Native+Infrastructure" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=5E81AC&center=true&vCenter=true&random=false&width=900&lines=Lead+Cloud+Engineer+%40+Five9;Kubernetes+%7C+GitOps+%7C+Platform+Engineering;Building+Cloud+Native+Infrastructure" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=5E81AC&center=true&vCenter=true&random=false&width=900&lines=Lead+Cloud+Engineer+%40+Five9;Kubernetes+%7C+GitOps+%7C+Platform+Engineering;Building+Cloud+Native+Infrastructure" alt="Typing SVG" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=88C0D0&center=true&vCenter=true&random=false&width=900&lines=Staff+Cloud+Platform+Engineer+%40+Five9;Kubernetes+%7C+GitOps+%7C+Platform+Engineering;Building+Cloud+Native+Infrastructure" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=5E81AC&center=true&vCenter=true&random=false&width=900&lines=Staff+Cloud+Platform+Engineer+%40+Five9;Kubernetes+%7C+GitOps+%7C+Platform+Engineering;Building+Cloud+Native+Infrastructure" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=5E81AC&center=true&vCenter=true&random=false&width=900&lines=Staff+Cloud+Platform+Engineer+%40+Five9;Kubernetes+%7C+GitOps+%7C+Platform+Engineering;Building+Cloud+Native+Infrastructure" alt="Typing SVG" />
   </picture>
 </div>
 
@@ -21,7 +21,7 @@
 ```yaml
 name: Rafael Salgado
 location: Porto, Portugal
-role: Lead Cloud Engineer @ Five9
+role: Staff Cloud Platform Engineer @ Five9
 
 focus:
   - Platform Engineering
