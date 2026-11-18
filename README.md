@@ -103,6 +103,8 @@ currently_building:
 <div align="center">
 
 <!--START_SECTION:badges-->
+[![Golden Kubestronaut](https://images.credly.com/size/80x80/images/1dba0197-1013-4f23-8918-9479f77172d6/blob)](https://www.credly.com/badges/4bad6828-6852-43a7-97af-6c2ac2af77e2)
+[![CNPE: Certified Cloud Native Platform Engineer](https://images.credly.com/size/80x80/images/93609502-0c3a-4d80-8570-5548e8116ead/blob)](https://www.credly.com/badges/381f5c38-acb3-4c76-812a-08ec2c6b90c3)
 [![LFCS: Linux Foundation Certified Systems Administrator](https://images.credly.com/size/80x80/images/1677b995-9642-44e2-8961-026f84810bbc/blob)](https://www.credly.com/badges/1ac9e7fd-40da-493e-9145-2986da31c014)
 [![ICA: Istio Certified Associate](https://images.credly.com/size/80x80/images/d7d4ddc8-7df8-4c03-9343-507b51e0ef99/image.png)](https://www.credly.com/badges/b5651889-d7ad-4c88-991e-68092bbdac28)
 [![OTCA: OpenTelemetry Certified Associate](https://images.credly.com/size/80x80/images/3d3f7131-83a4-4427-8a68-150ca90bcc23/blob)](https://www.credly.com/badges/9d072534-0378-4c33-a838-0b64ec874591)
