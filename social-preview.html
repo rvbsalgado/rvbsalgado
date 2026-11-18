@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600&display=swap');
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      width: 1280px;
+      height: 640px;
+      background: #2E3440;
+      font-family: 'Fira Code', monospace;
+      padding: 60px 80px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+
+    .command {
+      color: #88C0D0;
+      font-size: 38px;
+      font-weight: 600;
+      margin-bottom: 8px;
+    }
+
+    .output {
+      color: #ECEFF4;
+      font-size: 32px;
+      margin-left: 20px;
+    }
+
+    .output.role {
+      color: #8FBCBB;
+      font-size: 28px;
+    }
+
+    .output.skills {
+      color: #A3BE8C;
+      font-size: 26px;
+    }
+
+    .output.yaml {
+      color: #ECEFF4;
+      font-size: 26px;
+      margin-left: 20px;
+    }
+
+    .output.yaml .key {
+      color: #88C0D0;
+    }
+
+    .output.yaml .dash {
+      color: #EBCB8B;
+    }
+
+    .output.yaml .value {
+      color: #A3BE8C;
+    }
+
+    .section {
+      margin-bottom: 20px;
+    }
+
+    .bottom-bar {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      height: 20px;
+      background: linear-gradient(90deg, #5E81AC, #88C0D0, #8FBCBB);
+    }
+
+    .cursor {
+      display: inline-block;
+      width: 12px;
+      height: 28px;
+      background: #88C0D0;
+      animation: blink 1s infinite;
+      vertical-align: middle;
+      margin-left: 5px;
+    }
+
+    @keyframes blink {
+      0%, 50% { opacity: 1; }
+      51%, 100% { opacity: 0; }
+    }
+  </style>
+</head>
+<body>
+  <div>
+    <div class="section">
+      <div class="command">$ whoami</div>
+      <div class="output">> Rafael Salgado</div>
+      <div class="output role">> Staff Cloud Platform Engineer @ Five9</div>
+    </div>
+
+    <div class="section">
+      <div class="command">$ cat profile.yaml<span class="cursor"></span></div>
+      <div class="output yaml"><span class="key">skills:</span></div>
+      <div class="output yaml">  <span class="dash">-</span> Kubernetes</div>
+      <div class="output yaml">  <span class="dash">-</span> GitOps</div>
+      <div class="output yaml">  <span class="dash">-</span> Platform Engineering</div>
+      <div class="output yaml"><span class="key">cloud:</span> <span class="value">[AWS, Azure, GCP]</span></div>
+      <div class="output yaml"><span class="key">certs:</span> <span class="value">[Golden Kubestronaut, CNPE, CKS, CKA]</span></div>
+    </div>
+  </div>
+
+  <div class="bottom-bar"></div>
+</body>
+</html>
