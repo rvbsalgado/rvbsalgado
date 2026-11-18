@@ -19,3 +19,21 @@ jobs:
           CREDLY_SORT: RECENT
           CREDLY_SIZE: 110
           COMMIT_MESSAGE: "docs: update Credly badges"
+
+      # Credly often redirects /size/80x80/ URLs to the full-size original (~1000px),
+      # so rewrite the markdown images as HTML with explicit dimensions.
+      - name: Checkout updated README
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+
+      - name: Constrain badge size
+        run: |
+          perl -pi -e 's{^\[!\[(.*?)\]\((https://images\.credly\.com[^)]*)\)\]\(([^)]*)\)\s*$}{<a href="$3" title="$1"><img src="$2" alt="$1" width="80" height="80"></a>\n}' README.md
+
+      - name: Commit sized badges
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || { git commit -m "docs: constrain Credly badge size" && git push; }
